@@ -1,8 +1,14 @@
-spacy
+# Frontend requirements for Streamlit app
+streamlit
+requests
+pandas
+plotly
+
+# Backend requirements (if running both together)
 fastapi
 uvicorn
-requests
-python-dotenv
-requests
+pydantic
+spacy
 word2number
+python-dotenv
 rapidfuzz
